@@ -1,0 +1,86 @@
+.types__container{
+    margin-top: 5px;
+    display: inline-block;
+}
+
+.types__container > p{
+    padding: 5px;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+
+.types__grass{
+    background-color: rgb(174, 221, 128);
+}
+
+.types__poison{
+    background-color: rgb(154, 104, 201);
+}
+
+.types__normal{
+    background-color: rgb(212, 176, 129);
+}
+
+.types__fighting{
+    background-color: rgb(212, 221, 132);
+}
+
+.types__flying{
+    background-color: rgb(157, 215, 238);
+}
+
+.types__rock{
+    background-color: rgb(219, 159, 110);
+}
+
+.types__bug{
+    background-color: rgb(168, 255, 175);
+}
+
+.types__ghost{
+    background-color: rgb(147, 193, 253);
+}
+
+.types__steel{
+    background-color: rgb(127, 142, 148);
+}
+
+.types__fire{
+    background-color: rgb(255, 143, 78);
+}
+
+.types__water{
+    background-color: rgb(146, 183, 192);
+}
+
+.types__electric{
+    background-color: rgb(189, 192, 146);
+}
+
+.types__psychic{
+    background-color: rgb(235, 160, 210);
+}
+
+.types__ice{
+    background-color: rgb(181, 231, 243);
+}
+
+.types__dragon{
+    background-color: rgb(153, 117, 93);
+}
+
+.types__dark{
+    background-color: rgb(95, 95, 95);
+}
+
+.types__fairy{
+    background-color: rgb(156, 243, 189);
+}
+
+.types__unknown{
+    background-color: rgb(66, 66, 66);
+}
+
+.types__shadow{
+    background-color: rgb(131, 131, 131);
+}
